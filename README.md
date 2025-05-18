@@ -23,3 +23,5 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 2. El entorno laboral es inclusivo y diverso, con porcentaje similar entre hombres y mujeres y brecha salarial mínima en puestos similares.
 3. Buscar identificar las razones del nivel de satifacción Ok, principalmente de aquellos empleados que exceden el nivel de rendimiento para evitar que se vaya talento importante de la empresa.
 4. Dar seguimiento a los que tienen un plan de mejora de desempeño. Si mejoran en 6 meses, continuar con su contrato; de lo contrario, terminarlo. 
+### Enlace tableau public
+https://public.tableau.com/app/profile/suzette.host/viz/SRLTalentmanagement/Dashboard1
